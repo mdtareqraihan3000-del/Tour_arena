@@ -1,0 +1,6 @@
+{
+  "name": "FIRE ARENA ADMIN",
+  "description": "Free Fire Lone Wolf Tournament App with User & Admin Management, Live Room ID system, Wallet & Leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
